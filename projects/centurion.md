@@ -1,3 +1,5 @@
+<img src="../assets/centurion-logo.svg" alt="Logo CENTURION" width="72">
+
 # CENTURION — suivi local et open source d'un plan annuel de contrôles
 
 **C**ontrôles, **É**chéances, **N**ormes, **T**raçabilité : **U**n **R**egistre **I**ndépendant, **O**uvert, **N**atif
