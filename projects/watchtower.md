@@ -1,6 +1,6 @@
 # Watchtower — pilotage des contrôles de sécurité
 
-**Contexte :** projet interne réalisé chez Skaleet.  
+**Contexte :** outil interne développé chez Skaleet sur mon temps de travail, commencé pendant mon stage et consolidé pendant ma mission freelance. Code et données non publics.  
 **Rôle :** conception et développement d'un outil de suivi, pendant mon stage puis mon activité de consultant cybersécurité.
 
 ![Aperçu de Watchtower](../assets/watchtower.png)

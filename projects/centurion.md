@@ -4,7 +4,7 @@
 
 **C**ontrôles, **É**chéances, **N**ormes, **T**raçabilité : **U**n **R**egistre **I**ndépendant, **O**uvert, **N**atif
 
-**Contexte :** projet personnel open source, distinct des outils internes réalisés en contexte professionnel (Watchtower, La Sentinelle).  
+**Contexte :** projet personnel open source, développé sur mon temps libre. Sans lien avec les outils internes de Skaleet : ni code, ni données, ni temps de travail.  
 **Rôle :** conception, développement et mise en production (v1.0.0) de l'application complète.
 
 ![Aperçu de CENTURION](../assets/centurion.png)
